@@ -7,6 +7,11 @@ The code in this toolbox implements the ["A Spectral-Spatial Fusion Transformer 
 
 ![alt text](./S2FTNet.PNG)
 
+ In order to enhance the long-distance dependency of features and improve the representation ability of features, a Transformer block based on multi head double self-attention 
+(MHD-SA) is proposed.More specifically, it is detailed of MHD-SA as follow.
+
+![alt text](./MHD-SA.PNG)
+
 Citation
 ---------------------
 
