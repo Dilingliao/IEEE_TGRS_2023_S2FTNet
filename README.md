@@ -1,6 +1,6 @@
 # A Spectral-Spatial Fusion Transformer Network for Hyperspectral Image Classification
 
-[Diling Liao](liaodiling2020@163.com), [Cuiping Shi](scp1980@126.com), [Tianyu Zhang]( 2019910178@qqhru.edu.cn), [Liguo Wang]( wangliguo@hrbeu.edu.cn)
+[Diling Liao](liaodiling2020@163.com), [Cuiping Shi](scp1980@126.com), [Liguo Wang]( wangliguo@hrbeu.edu.cn)
 ___________
 
 The code in this toolbox implements the ["A Spectral-Spatial Fusion Transformer Network for Hyperspectral Image Classification"]. More specifically, it is detailed as follow.
