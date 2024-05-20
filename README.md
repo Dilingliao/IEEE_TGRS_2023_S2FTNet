@@ -17,7 +17,9 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-D. Liao, C. Shi, L. Wang, "A Spectral-Spatial Fusion Transformer Network for Hyperspectral Image Classification," in IEEE Trans. on Geoscience and Remote Sensing.2023.
+D. Liao, C. Shi and L. Wang, "A Spectral–Spatial Fusion Transformer Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023.
+
+
     
 System-specific notes
 ---------------------
